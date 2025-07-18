@@ -1,0 +1,9 @@
+Instructions:
+	using the optemised mandlebrot generator re written from mandlebrot boii.py
+		several values will be asked of you, they will include:
+		- width in pixles:
+			give a integer value, the larger the value the more system rescorces it will take to 				calculate more than 1000 will take a while
+		- then it will ask for aspect ratio, best to stik with 1
+		- you will then be prompted to give a number for precision this is simply the number of iterations 		  of the calculations
+		- then there is the color settings:
+			i have no idea how they work yet
